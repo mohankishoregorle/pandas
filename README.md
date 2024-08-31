@@ -20,7 +20,9 @@ DataFrame: Created from dictionaries of lists, lists of dictionaries, or by read
 Common Operations:
 
 Selecting Data: Access rows, columns, or specific cells.
+
 Filtering Data: Apply conditions to filter rows.
+
 Modifying Data: Update values, add or remove columns.
 
 Advantages of Using Pandas Over Traditional Python Data Structures
